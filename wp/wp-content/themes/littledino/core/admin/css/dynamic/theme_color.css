@@ -1,0 +1,421 @@
+/* ==================== ##Color Styles ==================== */
+
+a:hover .wgl-icon,
+a.wgl-icon:hover,
+body ol > li:before,
+ul li:before,
+button,
+button:focus, button:active,
+h3#reply-title a:hover,
+body .comment-respond .comment-form a:hover,
+#comments .comment-reply-link,
+.author-info_social-wrapper,
+.blog-post_link:before,
+.wgl-likes .sl-icon,
+.blog-post_quote-text:before,
+.blog-post_link:before,
+.blog-post_link a:before,
+.blog-post_title i,
+.blog-post_link>.link_post:hover,
+.blog-post.format-standard.link .blog-post_title:before,
+.blog-post_title a:hover,
+.blog-posts .blog-post_title > a:hover,
+.button-read-more,
+.calendar_wrap thead,
+.copyright a:hover,
+.comment_author_says a:hover,
+.littledino_submit_wrapper:hover > i,
+.littledino_custom_button i,
+.littledino_custom_text a,
+.littledino_module_demo_item .di_button a:hover,
+.littledino_module_demo_item .di_title_wrap a:hover .di_title,
+.littledino_module_demo_item .di_title-wrap .di_subtitle,
+.littledino_twitter a,
+.load_more_works:hover,
+.header_search .header_search-button > i:hover,
+.header_search-field .search-form:after,
+.mc_form_inside #mc_signup_submit:hover,
+.share_post-container .share_social-wpapper ul li .share_post span.fa:hover,
+.share_link span.fa:hover,
+.share_post span.fa:hover,
+.share_post-container,
+.single_team_page .team-single_speaches-info .speech-info_desc span,
+.single_team_page .team-info_wrapper .team-info_item a:hover,
+.single-member-page .member-icon:hover,
+.single-member-page .team-link:hover,
+.single_team_page .team-single_speaches-info .speech-info_day,
+.single_team_page .team-info_icons a:hover,
+.team-icons .member-icon:hover,
+.vc_wp_custommenu .menu .menu-item.current-menu-item > a,
+.vc_wp_custommenu .menu .menu-item.current-menu-ancestor > a,
+.wpml-ls a:hover,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language:hover > a,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language a:hover,
+.wgl_timetabs .timetabs_headings .wgl_tab.active .tab_subtitle,
+.wgl_timetabs .timetabs_headings .wgl_tab:hover .tab_subtitle,
+.wgl_portfolio_category-wrapper a:hover,
+.single.related_posts .blog-post_title a:hover,
+.wgl_module_team .team-since,
+.wgl_module_team .team-item_info .team-item_titles .team-title:hover,
+.wgl-icon:hover,
+.wgl-theme-color,
+.wgl-portfolio-item_wrapper .portfolio_link-icon:hover,
+.wgl-portfolio-item_corners,
+.wgl-portfolio-item_cats,
+.wpb-js-composer .vc_row .vc_tta.vc_general .vc_active .vc_tta-panel-title > a:before,
+.wgl-social-share_pages.hovered_style ul li a:hover,
+.isotope-filter a:after,
+.wgl-slash li:before,
+.single_type-1 .single_meta .author_post a:hover,
+.single_type-2 .single_meta .author_post a:hover,
+.info_prev-link_wrapper > a, .info_next-link_wrapper > a,
+#comments .commentlist .comment_info .meta-wrapper .comment-edit-link,
+.blog-style-standard .blog-post_meta-categories span + span:before,
+.meta-wrapper a:hover,
+.single-team .single_team_page .team-info_icons .team-icon:hover,
+.wgl-portfolio_container .wgl-carousel.arrows_center_mode .slick-prev:hover:after,
+.wgl-portfolio_container .wgl-carousel.arrows_center_mode .slick-next:hover:after,
+.wgl_timetabs .timetabs_headings .wgl_tab .services_icon,
+ul.wgl-products li, .woocommerce .products ul.wgl-products li {
+	color: $theme_color;
+}
+
+header .header-link:hover,
+.hover_links a:hover {
+	color: $theme_color !important;
+}
+
+/* ↓ widget styles ↓ */
+.recent-posts-widget .meta-wrapper a,
+.isotope-filter a .number_filter {
+	color: $theme_color;
+}
+.author-widget_wrapper svg {
+	fill: $theme_color;
+}
+/* ↑ widgets styles ↑ */
+
+/* ==================== ##End Color Styles ==================== */
+
+/* ==================== ##Background Styles ==================== */
+
+.preloader-container .cssload-loader,
+.header_search-button-wrapper,
+.elementor-drop-cap,
+.single_team_page .team-title:before,
+.blog-style-hero .btn-read-more .blog-post-read-more,
+.wpml-ls-legacy-dropdown .wpml-ls-sub-menu .wpml-ls-item a span:before,
+.wgl-plus li:after, .wgl-plus li:before,
+.wgl-dash li:before,
+#multiscroll-nav span,
+#multiscroll-nav li .active span{
+	background: $theme_color;
+}
+
+::selection,
+#comments > h3:after,
+button:hover,
+blockquote:before,
+mark,
+span.highlighter,
+ul li:before,
+.vc_wp_custommenu .menu .menu-item a:before,
+.primary-nav ul li.mega-menu.mega-cat div.mega-menu-container ul.mega-menu.cats-horizontal > li.is-active > a,
+.primary-nav ul li ul li > a > span:before,
+.primary-nav > ul > li > a:after,
+.sitepress_container > .wpml-ls ul ul li a:hover,
+.blog-post_cats span a,
+.button__wrapper:hover:after,
+.calendar_wrap caption,
+.comment-reply-title:after,
+.page_404_wrapper .littledino_404_button.wgl_button .wgl_button_link:hover,
+.littledino_divider .littledino_divider_line .littledino_divider_custom .divider_line,
+.littledino_module_cats .cats_item-count,
+.littledino_module_title:after,
+.littledino_module_title .carousel_arrows a:hover span,
+.load_more_works,
+.mc_form_inside #mc_signup_submit,
+.wgl-social-share_pages.hovered_style .share_social-icon-plus,
+.wgl-ellipsis span,
+.wgl-theme-header .woo_mini_cart .woocommerce-mini-cart__buttons a.checkout:hover,
+.wgl-theme-header .woo_mini_cart .woocommerce-mini-cart__buttons a:not(.checkout),
+.inside_image .wgl-portfolio-item_divider div,
+.wgl_module_title.item_title .carousel_arrows a:hover,
+.wgl_timetabs .timetabs_headings .wgl_tab.active:after,
+.wgl-social-share_pages.standard_style a:before,
+.blog-style-hero .blog-post-hero_wrapper .divider_post_info,
+.wgl-portfolio-single_wrapper .wgl-portfolio-item_meta > span:after,
+.wgl-pricing_plan .pricing_header:after,
+.wgl-portfolio-single_wrapper .wgl-portfolio-item_cats a:before {
+	background-color: $theme_color;
+}
+
+/* ↓ widget styles ↓ */
+aside > .widget + .widget:before,
+body .widget .widget-title .widget-title_inner:after,
+body .widget_meta ul li a:hover:after,
+body .widget_archive ul li a:hover:after,
+body .widget_product_categories ul li a:hover:after,
+.widget .calendar_wrap table td#today:before,
+.widget .calendar_wrap tbody td > a:before,
+.widget .counter_posts,
+.widget.widget_pages ul li a:before,
+.widget.widget_nav_menu ul li a:before,
+.widget.widget_categories ul li a:hover:before,
+.widget_nav_menu .menu .menu-item:before,
+.widget_postshero .recent-posts-widget .post_cat a,
+.widget_meta ul li > a:before,
+.widget.littledino_widget.littledino_banner-widget .banner-widget_button:hover,
+.widget_archive ul li > a:before {
+	background-color: $theme_color;
+}
+/* ↑ widgets styles ↑ */
+
+/* ==================== ##End Background Styles ==================== */
+
+/* ==================== ##Background and Border Styles ==================== */
+
+.blog-post_meta-date,
+.blog-post_cats span,
+.wgl-carousel.navigation_offset_element .slick-prev:hover,
+.wgl-carousel.navigation_offset_element .slick-next:hover,
+.littledino_module_demo_item .di_button a,
+.next-link:hover, .prev-link:hover,
+.wpcf7 .call_to_action_1 .wgl_col-2 .wpcf7-submit:hover,
+.button-alt-2 .wpcf7 .wpcf7-submit:hover {
+	border-color: $theme_color;
+	background: $theme_color;
+}
+
+/* ==================== ##End Background and Border Styles ==================== */
+
+/* ==================== ##Border Styles ==================== */
+
+.blog-posts-list.blog-posts .blog-post.sticky-post .blog-post_wrapper,
+.header_search-button-wrapper:before,
+.header_search.search_standard .header_search-field .search-field,
+.header_search.search_alt .header_search-field .search-field,
+.single-team .single_team_page .team-single_wrapper,
+.post_featured_bg .content-container_wrapper:after,
+.author-widget_img-wrapper:after,
+.blog-style-standard .format-no_featured .blog-post_wrapper,
+.blog-style-standard .format-quote .blog-post_wrapper,
+.blog-style-standard .format-audio .blog-post_wrapper,
+.blog-style-standard .format-link .blog-post_wrapper,
+.littledino_module_title .carousel_arrows a:hover span:before,
+.load_more_works,
+.author-info_social-link:after,
+.author-widget_social a span,
+.single_info-share_social-wpapper .share_link .share-icon_animation,
+.single-team .single_team_page .team-image,
+.wgl_module_team .team-image,
+.inside_image.offset_animation:before,
+.littledino_module_videobox .videobox_link,
+.wpcf7 .call_to_action_1 .wgl_col-2 .wpcf7-submit,
+.single-team .single_team_page .team-info_icons .team-icon a:after {
+	border-color: $theme_color;
+}
+
+/* ==================== ##End Border Styles ==================== */
+
+/* ==================== ##Additional Styles ==================== */
+
+.wgl-portfolio-item_wrapper .overlay {
+	background-color: rgba($hex_theme_color, 0.8);
+}
+
+.primary-nav ul li ul:after, .primary-nav ul li div.mega-menu-container:after {
+	border-color: rgba($hex_theme_color, 0.5);
+}
+
+.wgl-theme-header .header_search .header_search-field:after{
+	border-bottom-color: rgba($hex_theme_color, 0.9);
+}
+
+.theme_color_shadow {
+	box-shadow:  0px 9px 30px 0px rgba($hex_theme_color, 0.4);
+}
+
+.inside_image .overlay:before,
+.inside_image.always_info_animation:hover .overlay:before{
+	box-shadow: inset 0px 0px 0px 0px rgba($hex_theme_color, 1);
+}
+
+.inside_image:hover .overlay:before,
+.inside_image.always_info_animation .overlay:before{
+	box-shadow: inset 0px 0px 0px 10px rgba($hex_theme_color, 1);
+}
+
+.widget .widget-title .widget-title_wrapper .widget-title_inner {
+	background-image: linear-gradient(to top, rgba($hex_theme_color, 0.5), rgba($hex_theme_color, 0.5));
+}
+
+/* ==================== ##End Additional Styles ==================== */
+
+/* ==================== ##Theme Secondary Color Styles ==================== */
+
+.primary-nav ul li ul li.current-menu-ancestor.current-menu-parent > a > span,
+.primary-nav ul li ul li.current-menu-item > a > span,
+.primary-nav ul li ul li.current_page_item > a > span,
+.primary-nav ul li ul li:hover > a > span,
+.mobile_nav_wrapper .primary-nav ul li ul .menu-item.current-menu-item > a,
+.mobile_nav_wrapper .primary-nav ul ul li.menu-item.current-menu-ancestor > a,
+blockquote cite a,
+.wgl-secondary-color,
+.blog-post_meta-categories span,
+.post_featured_bg .meta-wrapper .comments_post a:hover,
+.post_featured_bg .meta-wrapper a:hover,
+.single_post_info .share_post-list-container .share_social-wpapper ul li span.fa:hover,
+.page-header_breadcrumbs .divider:not(:last-child):before,
+.wgl-video-popup .videobox_link,
+.wgl-portfolio-item_meta a:hover,
+.wgl-portfolio-single_item .portfolio-category:hover,
+.wgl-portfolio-single_wrapper .wgl-portfolio-item_cats a:hover{
+	color: $theme_secondary_color;
+}
+
+.preloader-container .cssload-loader:before,
+.primary-nav .lavalamp-object,
+.mobile_nav_wrapper .primary-nav > ul > li > a > span:after,
+body .widget_search .search-form:after,
+body .widget_search .woocommerce-product-search:after,
+body .widget_product_search .search-form:after,
+body .widget_product_search .woocommerce-product-search:after,
+body .widget_categories ul li a:hover:after,
+.wgl-check.secondary-color li:before,
+.share_post-container > a,
+.isotope-filter a.active:after,
+.wgl_module_team .team-info_icons:hover .team-info_icons-plus,
+.next-link_wrapper .image_next:before, .prev-link_wrapper .image_prev:before,
+.prev-link_wrapper .image_prev .no_image_post, .next-link_wrapper .image_next .no_image_post,
+.wgl_module_title.item_title .carousel_arrows span[class*="slick_arrow"],
+.wgl-carousel .slick-arrow,
+.wgl_module_team .team-info_icons-plus:before,
+.wgl_module_team .team-info_icons-plus:after,
+.wgl_module_team .team-icon a,
+.single-team .single_team_page .team-info_icons .team-icon:hover,
+.page_404_wrapper .search-form:after,
+.wpcf7 .wpcf7-submit:hover,
+.wgl-pagination .page .current:after,
+.page-link .post-page-numbers.current:after,
+.page-link .post-page-numbers:hover:after,
+.wgl-pagination .page-numbers:hover:after,
+.wgl-pagination .page-numbers.prev, .wgl-pagination .page-numbers.next,
+.wgl-video-popup .videobox_link,
+.single-team .single_team_page .team-info_icons .team-icon a,
+.tagcloud a:hover,
+.widget.littledino_widget.littledino_banner-widget .banner-widget_button:hover,
+.dropcap-bg,
+form.post-password-form input[type='submit'],
+.primary-nav > ul > li > a > span:after {
+	background: $theme_secondary_color;
+}
+
+.post_featured_bg .meta-wrapper .blog-post_meta-categories a,
+.load_more_wrapper .load_more_item,
+#comments .form-submit input[type="submit"],
+.wpcf7 .wpcf7-submit, .button-alt .wpcf7 .wpcf7-submit:hover,
+.button-alt-2 .wpcf7 .wpcf7-submit,
+.blog-post_meta-categories a {
+	background: $theme_secondary_color;
+	border-color: $theme_secondary_color;
+}
+
+.wgl_module_title.item_title .carousel_arrows span[class*="slick_arrow"]:before,
+.wgl_module_team .team-icon a:after,
+.next-link_wrapper .image_next:after,
+.prev-link_wrapper .image_prev:after,
+.wgl-carousel .slick-arrow:before {
+	border-color: $theme_secondary_color;
+}
+
+.prev-link_wrapper .image_prev svg.outter-dashes,
+.next-link_wrapper .image_next svg.outter-dashes{
+	stroke: $theme_secondary_color;
+}
+
+/* ==================== ##End Theme Secondary Color Styles ==================== */
+
+/* ==================== ##Theme Tertiary Color Styles ==================== */
+
+a,
+.wgl-third-color,
+#comments .comment-reply-link:hover,
+ul.wp-block-archives.wp-block-archives-list li a:hover,
+ul.wp-block-categories.wp-block-categories-list li a:hover,
+ul.wp-block-categories.wp-block-categories-list li a:hover + .post_count,
+ul.wp-block-latest-posts li a:hover,
+/* ↓ widget styles ↓ */
+body .widget_categories ul li .post_count,
+body .widget_categories ul li .count,
+body .widget_product_categories ul li .post_count,
+body .widget_product_categories ul li .count,
+body .widget_meta ul li .post_count,
+body .widget_meta ul li .count,
+body .widget_archive ul li .post_count,
+body .widget_archive ul li .count,
+body .widget_rss ul li .rsswidget:hover,
+body .widget_recent_entries  ul li .post-date,
+body .widget_meta ul li .post_count,
+body .widget_archive ul li > a:before,
+body .widget_product_categories ul li a:hover + .post_count,
+body .widget_archive ul li a:hover + .post_count,
+body .widget_product_categories ul li a:hover,
+body .widget_nav_menu .current-menu-ancestor > a,
+body .widget_nav_menu .current-menu-item > a,
+ul.wp-block-categories.wp-block-categories-list li .post_count,
+.widget.widget_archive ul li a:hover,
+.widget.widget_archive ul li a:hover + span + span,
+.widget.widget_categories ul li a:hover,
+.widget.widget_categories ul li a:hover + span + span,
+.widget.widget_pages ul li a:hover,
+.widget.widget_meta ul li a:hover,
+.widget.littledino_widget.littledino_banner-widget .banner-widget_button,
+.widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a:hover,
+.widget.widget_recent_comments ul li a:hover,
+.widget.widget_recent_entries ul li a:hover,
+.widget.widget_nav_menu ul li a:hover,
+.recent-posts-widget .meta-wrapper a,
+.widget.littledino_widget.littledino_banner-widget .banner-widget_text .tags_title:after,
+.widget.widget_recent_comments ul li span.comment-author-link a:hover,
+/* ↑ widgets styles ↑ */
+.meta-wrapper, .meta-wrapper a,
+body .comment-respond .comment-form a,
+.wgl_module_team .team-department,
+.wgl-portfolio-single_wrapper .wgl-portfolio-item_cats a,
+.wgl-portfolio-single_wrapper .wgl-portfolio-item_meta,
+.single-team .single_team_page .team-info_item.team-department span,
+.wgl_module_team .team-department {
+	color: $theme_third_color;
+}
+
+form.post-password-form input[type='submit']:hover,
+.preloader-container .cssload-loader:after,
+.page_404_wrapper .littledino_404_button.wgl_button .wgl_button_link,
+.page-header_breadcrumbs .divider:before,
+.wgl-check.tertiary-color li:before,
+.load_more_wrapper .load_more_item:hover,
+.post_featured_bg .meta-wrapper span:before,
+.wgl-portfolio-single_wrapper .wgl-portfolio-item_cats a:before,
+.single_post_info .share_post-list-container .share_social-wpapper,
+.meta-wrapper span + span:before,
+ul.wp-block-categories.wp-block-categories-list li a:hover:after{
+	background: $theme_third_color;
+}
+
+.single_post_info .share_post-list-container .share_social-wpapper:after{
+	border-color: $theme_third_color transparent transparent transparent;
+}
+
+.wgl-theme-header .wgl-button.elementor-button,
+#comments .form-submit input[type="submit"]:hover,
+.wpcf7 .wpcf7-submit:hover, .button-alt .wpcf7 .wpcf7-submit {
+	background: $theme_third_color;
+	border-color: $theme_third_color;
+}
+
+.button__wrapper .banner-widget_button + svg{
+	stroke: $theme_third_color;
+}
+
+/* ==================== ##End Theme Tertiary Color Styles ==================== */

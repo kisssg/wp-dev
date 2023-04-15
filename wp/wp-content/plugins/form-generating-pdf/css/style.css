@@ -1,0 +1,316 @@
+
+#table-scroll {
+  height:1000px;
+  overflow:auto; 
+  width :600px; 
+}
+#table-wrapper table {
+  width:100%;
+
+}
+
+table.scrollTableItems{
+  width :100%;
+}
+
+thead.scrollTableItems, tbody.scrollTableItems { display: block; }
+
+tbody.scrollTableItems {
+    height: 400px;       /* Just for the demo          */
+    overflow-y: auto;    /* Trigger vertical scroll    */
+    overflow-x: hidden;  /* Hide the horizontal scroll */
+}
+/*
+tbody.scrollTableItems td{
+  float:left;
+}
+
+thead.scrollTableItems tr th {
+  float:left;
+}
+*/
+
+
+
+
+
+
+table.scroll {
+    /*width: 630px; */
+    border-spacing: 0;
+   /*border: 2px solid black;*/
+}
+
+table.scroll tbody,
+table.scroll thead tr { display: block; width:100%; }
+
+table.scroll tbody {
+    height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+table.scroll tbody td,
+table.scroll thead th {
+    width: 140px;
+}
+
+table.scroll tbody td:last-child,
+table.scroll thead th:last-child {
+    width: 250px; 
+}
+
+thead tr th { 
+    height: 30px;
+    line-height: 30px;
+    text-align: left;
+}
+
+
+
+/*============================ Text Style ===========================================*/
+.font-style-bold input[type="checkbox"],
+.font-style-bold .bold-checked {
+    display: none;
+}
+
+.font-style-bold input[type="checkbox"]:checked ~ .bold-checked
+{
+    display: inline-block;
+}
+ 
+.font-style-bold input[type="checkbox"]:checked ~ .bold-unchecked
+{
+    display: none;
+}
+
+
+.font-style-italic input[type="checkbox"],
+.font-style-italic .italic-checked {
+    display: none;
+}
+
+.font-style-italic input[type="checkbox"]:checked ~ .italic-checked
+{
+    display: inline-block;
+}
+ 
+.font-style-italic input[type="checkbox"]:checked ~ .italic-unchecked
+{
+    display: none;
+}
+
+
+.font-style-underline input[type="checkbox"],
+.font-style-underline .underline-checked {
+    display: none;
+}
+
+.font-style-underline input[type="checkbox"]:checked ~ .underline-checked
+{
+    display: inline-block;
+}
+ 
+.font-style-underline input[type="checkbox"]:checked ~ .underline-unchecked
+{
+    display: none;
+}
+
+
+/*============================ Text Alignment ===========================================*/
+
+.text-alignment-left input[type="radio"],
+.text-alignment-left .left-checked {
+    display: none;
+}
+
+.text-alignment-left input[type="radio"]:checked ~ .left-checked
+{
+    display: inline-block;
+}
+ 
+.text-alignment-left input[type="radio"]:checked ~ .left-unchecked
+{
+    display: none;
+}
+
+
+
+.text-alignment-center input[type="radio"],
+.text-alignment-center .center-checked {
+    display: none;
+}
+
+.text-alignment-center input[type="radio"]:checked ~ .center-checked
+{
+    display: inline-block;
+}
+ 
+.text-alignment-center input[type="radio"]:checked ~ .center-unchecked
+{
+    display: none;
+}
+
+
+
+
+
+.text-alignment-right input[type="radio"],
+.text-alignment-right .right-checked {
+    display: none;
+}
+
+.text-alignment-right input[type="radio"]:checked ~ .right-checked
+{
+    display: inline-block;
+}
+ 
+.text-alignment-right input[type="radio"]:checked ~ .right-unchecked
+{
+    display: none;
+}
+
+
+
+
+
+
+
+
+.text-alignment-justify input[type="radio"],
+.text-alignment-justify .justify-checked {
+    display: none;
+}
+
+.text-alignment-justify input[type="radio"]:checked ~ .justify-checked
+{
+    display: inline-block;
+}
+ 
+.text-alignment-justify input[type="radio"]:checked ~ .justify-unchecked
+{
+    display: none;
+}
+
+
+
+/*==================== Styling Ppoperties ====================*/
+input[type="color"]{
+  position: relative;
+  bottom: 12px;
+
+}
+
+input#email_pos{
+  margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#upload-button {
+	width: 150px;
+	display: block;
+	margin: 20px auto;
+}
+
+#file-to-upload {
+	display: none;
+}
+
+#pdf-main-container {
+	width: 400px;
+	margin: 20px auto;
+}
+
+#pdf-loader {
+	display: none;
+	text-align: center;
+	color: #999999;
+	font-size: 13px;
+	line-height: 100px;
+	height: 100px;
+}
+
+#pdf-contents {
+	display: none;
+}
+
+#pdf-meta {
+	overflow: hidden;
+	margin: 0 0 20px 0;
+}
+
+#pdf-buttons {
+	float: left;
+}
+
+#page-count-container {
+	float: right;
+}
+
+#pdf-current-page {
+	display: inline;
+}
+
+#pdf-total-pages {
+	display: inline;
+}
+
+#pdf-canvas {
+	border: 1px solid rgba(0,0,0,0.2);
+	box-sizing: border-box;
+
+}
+
+#page-loader {
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	display: none;
+	color: #999999;
+	font-size: 13px;
+}
+
+#download-image {
+	width: 150px;
+	display: block;
+	margin: 20px auto 0 auto;
+	font-size: 13px;
+	text-align: center;
+}
+
+#special{
+	width:100%;
+	margin-left:-30px;
+}
+
+.radio-group label {
+   overflow: hidden;
+} .radio-group input {
+    /* This is on purpose for accessibility. Using display: hidden is evil.
+    This makes things keyboard friendly right out tha box! */
+   height: 1px;
+   width: 1px;
+   position: absolute;
+   top: -20px;
+} 
+.radio-group:active .not-active:active {
+   color: #000;
+   background-color: #fff;
+}

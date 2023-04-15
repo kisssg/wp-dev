@@ -1,0 +1,77 @@
+/* Footer CSS */
+.footer .mc4wp-form-fields input[type="submit"]:hover,
+.footer .mc4wp-form-fields input[type="submit"]:focus,
+.footer .mc4wp-form-fields input[type="submit"]:active,
+.footer_top-area .widget.widget_archive ul li > a:hover,
+.footer_top-area .widget.widget_archive ul li > a:hover,
+.footer_top-area .widget.widget_categories ul li > a:hover,
+.footer_top-area .widget.widget_categories ul li > a:hover,
+.footer_top-area .widget.widget_categories ul li > a:hover + .post_count,
+.footer_top-area .widget.widget_pages ul li > a:hover,
+.footer_top-area .widget.widget_pages ul li > a:hover,
+.footer_top-area .widget.widget_meta ul li > a:hover,
+.footer_top-area .widget.widget_meta ul li > a:hover,
+.footer_top-area .widget.widget_recent_comments ul li > a:hover,
+.footer_top-area .widget.widget_recent_comments ul li > a:hover,
+.footer_top-area .widget.widget_recent_entries ul li > a:hover,
+.footer_top-area .widget.widget_recent_entries ul li > a:hover,
+.footer_top-area .widget.widget_nav_menu ul li > a:hover,
+.footer_top-area .widget.widget_nav_menu ul li > a:hover,
+.footer_top-area .widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a:hover,
+.footer_top-area .widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a:hover{
+	color: $theme_color;
+}
+
+.footer ul li:before,
+.footer ul li:before,
+.footer_top-area a:hover,
+.footer_top-area a:hover{
+	color: $theme_color;
+}
+
+.footer_top-area .widget-title,
+.footer_top-area .widget_rss ul li .rsswidget,
+.footer_top-area .widget.widget_pages ul li a, 
+.footer_top-area .widget.widget_nav_menu ul li a,
+.footer_top-area .widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a,
+.footer_top-area .widget.widget_archive ul li > a,
+.footer_top-area .widget.widget_categories ul li > a,
+.footer_top-area .widget.widget_pages ul li > a,
+.footer_top-area .widget.widget_meta ul li > a,
+.footer_top-area .widget.widget_recent_comments ul li > a,
+.footer_top-area .widget.widget_recent_entries ul li > a,
+.footer_top-area .widget.widget_archive ul li:before,
+.footer_top-area .widget.widget_meta ul li:before,
+.footer_top-area .widget.widget_categories ul li:before,
+.footer_top-area strong,
+.footer_top-area h1,
+.footer_top-area h2,
+.footer_top-area h3,
+.footer_top-area h4,
+.footer_top-area h5,
+.footer_top-area h6{
+	color: $footer_heading_color;
+}
+
+.footer_top-area{
+	color: $footer_text_color;
+}
+
+.footer_top-area .widget.widget_archive ul li:after,
+.footer_top-area .widget.widget_pages ul li:after,
+.footer_top-area .widget.widget_meta ul li:after,
+.footer_top-area .widget.widget_recent_comments ul li:after,
+.footer_top-area .widget.widget_recent_entries ul li:after,
+.footer_top-area .widget.widget_nav_menu ul li:after,
+.footer_top-area .widget.widget_categories ul li:after{
+	background-color: $footer_text_color;
+}
+
+.footer .copyright{
+	color: $copyright_text_color;
+}
+
+.footer .mc4wp-form-fields input[type="submit"]{
+	background-color: $theme_color;
+	border-color: $theme_color;
+}
